@@ -1,9 +1,3 @@
-// Filename: i2c.h
-// Description: Module to communicate using the i2c bus
-// Author(s): Robert Trost
-// Set: N/A
-// Date: Mar 1, 2017 (created)
-
 #ifndef I2C_H_
 #define I2C_H_
 
