@@ -1,9 +1,3 @@
-// Filename: lcd.h
-// Description: Module to control the color 128x128 TFT LCD display on Educational BoosterPack MKII
-// Author(s): Robert Trost
-// Set: N/A
-// Date: Feb 20, 2016 (created)
-
 #ifndef LCD_H_
 #define LCD_H_
 
